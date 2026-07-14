@@ -1,4 +1,4 @@
-package com.springbootWeb.WebApp;
+package com.springbootWeb.WebApp.controller;
 
 public class ProductController {
 
